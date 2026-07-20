@@ -1,0 +1,5 @@
+# Findings
+The Simplex method is an efficient algorithm for solving linear programming problems. However, it can be sensitive to the choice of the pivot element and the scaling of the coefficients. In our experiments, we found that the Simplex method was able to find the optimal solution for most of the test cases, but it failed to converge for some cases with large coefficients. We also observed that the performance of the Simplex method was improved by using a more efficient pivot selection strategy.
+
+## Conclusion
+In conclusion, the Simplex method is a powerful algorithm for solving linear programming problems, but it requires careful tuning of the parameters and the pivot selection strategy to achieve good performance. Further research is needed to improve the robustness and efficiency of the Simplex method for large-scale linear programming problems.
