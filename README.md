@@ -92,3 +92,10 @@ The current implementation only supports problems with a small number of variabl
 
 ## License
 This implementation is licensed under the MIT License.
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
